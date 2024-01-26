@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "simple greetings code for learning project",
-  "main": "index.js",
+  "main": "./src/my-application/index.js",
   "scripts": {
     "test": "Error: no test specified\\\" && exit 1"
   },
